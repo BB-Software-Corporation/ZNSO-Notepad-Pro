@@ -21,7 +21,11 @@
 ---
 
 ## 📸 软件截图
-（这里插入你软件运行时的截图，或者 gif 动图演示）
+<img width="1538" height="989" alt="image" src="https://github.com/user-attachments/assets/d8ad270e-0e3a-4a9b-8ea2-368abcac49fa" />
+---
+创新项目路径设置
+<img width="1320" height="425" alt="image" src="https://github.com/user-attachments/assets/b9905855-bdb9-423e-a38f-ca7493c04e81" />
+
 
 ---
 
