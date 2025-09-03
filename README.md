@@ -1,4 +1,4 @@
-# ZNSO-Notepad-Pro
+<img width="706" height="323" alt="image" src="https://github.com/user-attachments/assets/e7689c65-915a-4ece-9ab1-dfad0a9b0148" /># ZNSO-Notepad-Pro
 
 **ZNSO Notepad Pro** —— 一个专注于写笔记的专业软件，支持 **可视化笔记**，允许使用 **图像 + 文本** 进行记录。  
 这是 **BB Software Corporation** 发布的第一个开源软件。  
@@ -22,19 +22,22 @@
 
 ## 📸 软件截图
 <img width="1538" height="989" alt="image" src="https://github.com/user-attachments/assets/d8ad270e-0e3a-4a9b-8ea2-368abcac49fa" />
+
 ---
 创新项目路径设置
 <img width="1320" height="425" alt="image" src="https://github.com/user-attachments/assets/b9905855-bdb9-423e-a38f-ca7493c04e81" />
 
+---
+
+<img width="1530" height="896" alt="image" src="https://github.com/user-attachments/assets/9186041b-5d3d-411a-a730-1b5d89613c06" />
+自动保存选项
 
 ---
 
-## 🤝 参与交流
-- Issues：提交问题或建议  
-- 欢迎 Star ⭐ 支持项目  
-- 交流群（例如 QQ 群 / Discord 链接）
+<img width="706" height="323" alt="image" src="https://github.com/user-attachments/assets/e34aee7c-da8c-4a3b-9635-3f0c69839054" />
 
+笔记集合选择
 ---
 
-## 📜 开源协议
-本项目已开源，详见 [LICENSE](./LICENSE)。
+## 🔑 Key Pass 设置
+本应用属于**半开源**，所以必须知道**Key Pass**的用户才可以打开ZNP Pro 应用。
