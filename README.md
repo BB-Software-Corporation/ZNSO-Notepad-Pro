@@ -1,6 +1,4 @@
-<img width="706" height="323" alt="image" src="https://github.com/user-attachments/assets/e7689c65-915a-4ece-9ab1-dfad0a9b0148" /># ZNSO-Notepad-Pro
-
-**ZNSO Notepad Pro** —— 一个专注于写笔记的专业软件，支持 **可视化笔记**，允许使用 **图像 + 文本** 进行记录。  
+#**ZNSO Notepad Pro** —— 一个专注于写笔记的专业软件，支持 **可视化笔记**，允许使用 **图像 + 文本** 进行记录。  
 这是 **BB Software Corporation** 发布的第一个开源软件。  
 
 ---
